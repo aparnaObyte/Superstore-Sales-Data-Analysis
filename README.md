@@ -1,18 +1,42 @@
-Superstore Sales Analysis - Power BI Project
+# 📊 Superstore Sales Analysis - Power BI Project
 
-This is a 3-page Power BI dashboard I built to analyze retail sales data. The main goal of this project was to look past the high-level sales numbers, find where the business is actually losing money, and figure out why.
+This is a 3-page Power BI dashboard built to analyze retail sales data[cite: 1]. The goal of this project is to look past high-level sales numbers, find where the business loses money, and identify the root causes[cite: 1].
 
-What Each Page Does
+---
 
-* Page 1: Executive Summary - Gives a high-level overview of the store's performance. Total sales hit $2.30M with a profit of $286K, but it also flags that our overall average discount is sitting at 15.62%.
-* Page 2: Regional Performance - Breaks down the data by geography. The map shows that while coastal states like California and New York make huge profits, the Central region (specifically Texas and Illinois) is operating at a heavy loss.
-* Page 3: Product Profitability - A deep dive into our products to find the root cause of the regional losses.
+## 🚀 Dashboard Structure
 
-Key Insights Found
-* The biggest issue: Tables are the single largest financial drain for the business, losing over $17.7K.
-* The "Why": Looking at the charts, tables are losing money because they have a massive average discount of 26.13%. 
-* The winners: On the flip side, Copiers and Phones are highly profitable, bringing in over $100K combined because their discounts are kept low.
+* **Page 1: Executive Summary** 📈
+  * Shows a high-level overview of store performance[cite: 1]. 
+  * Total sales reached **$2.30M** with a profit of **$286.40K**[cite: 1]. 
+  * Flags an overall average discount rate of **15.62%** for further review[cite: 1].
 
-Tools Used
-* Power BI Desktop (for data modeling, layouts, and dashboard design)
-* Microsoft Excel / Python (for initial data cleaning)
+* **Page 2: Regional Performance** 🗺️
+  * Breaks down the sales data by geography[cite: 1]. 
+  * Coastal states like California and New York generate strong profits[cite: 1]. 
+  * Highlights a major profit problem in the Central region, specifically within **Texas** and **Illinois**[cite: 1].
+
+* **Page 3: Product Profitability** 📦
+  * Deep dive into product sub-categories to find out why certain areas lose money[cite: 1].
+
+---
+
+## 🔍 Key Insights Found
+
+* 🛑 **The Biggest Problem:** **Tables** are the largest financial drain for the store, losing over **$17.7K**[cite: 1].
+* 💸 **The Root Cause:** Tables lose money because they have a very high average discount of **26.13%**[cite: 1]. 
+* ⭐ **The Top Performers:** **Copiers** and **Phones** are highly profitable, bringing in over **$100K** together because their discounts are kept low[cite: 1].
+
+---
+
+## 💡 Recommendations
+
+* 📋 **Limit Furniture Discounts:** Establish strict caps on discounts for furniture lines—especially tables and bookcases—to protect profit margins[cite: 1].
+* 📍 **Review Central Region Stores:** Investigate the specific store strategies in Texas and Illinois to fix the losses happening there[cite: 1].
+
+---
+
+## 🛠️ Tools Used
+
+* **Power BI Desktop** (Data modeling, visual layouts, and dashboard design)[cite: 1]
+* **Microsoft Excel / Python** (Initial data cleaning and preprocessing)[cite: 1]
