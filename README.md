@@ -4,7 +4,7 @@ This is a 3-page Power BI dashboard built to analyze retail sales data. The goal
 
 ---
 
-## 🚀 Dashboard Structure
+## 🚀 Dashboard Structure 
 
 * **Page 1: Executive Summary** 📈
   * Shows a high-level overview of store performance. 
