@@ -29,13 +29,6 @@ This is a 3-page Power BI dashboard built to analyze retail sales data. The goal
 
 ---
 
-## 💡 Recommendations
-
-* 📋 **Limit Furniture Discounts:** Establish strict caps on discounts for furniture lines—especially tables and bookcases—to protect profit margins.
-* 📍 **Review Central Region Stores:** Investigate the specific store strategies in Texas and Illinois to fix the losses happening there.
-
----
-
 ## 🛠️ Tools Used
 
 * **Power BI Desktop** (Data modeling, visual layouts, and dashboard design)
